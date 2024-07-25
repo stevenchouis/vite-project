@@ -18,6 +18,7 @@ module.exports = {
       { allowConstantExport: true },
     ],
     quotes: ["error", "single"],
-    // semi: ["error", "always"],
+    // always 或 never 
+    // semi: ["error", "always"], 
   },
 }
